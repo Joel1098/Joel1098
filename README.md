@@ -1,7 +1,7 @@
 ## Hola 👋
-## Soy ingeniero en sistemas computacionales que se adapta a cualquier entorno de trabajo. Mi pasión se enfoca y va dirigida a todo el tema de Data, desde trabajar con procesamiento de datos con softwares como spark, pandas, SAS para nivel Big Data. 
+## Soy ingeniero en sistemas computacionales que se adapta a cualquier entorno de trabajo. Mi pasión se enfoca a todo el tema de Data, desde trabajar con procesamiento de datos con softwares como spark, pandas, SAS para nivel Big Data. 
 
-## También cuento con experiencia y gusto por trabajar con bases de datos relacionales, especialmente con el gestor PostgreSQL y análisis de datos trabajando con tablas dinámicas en Excel, Macros, fórmulas, gráficas, carga de datos desde archivos CSV y procesos ETL. 
+## También cuento con experiencia y gusto por trabajar con bases de datos relacionales y análisis de datos como con tablas dinámicas en Excel, Macros, fórmulas, gráficas, carga de datos desde archivos CSV y procesos ETL. 
 
 ### 🛠️ Stack de tecnologías con el que trabajo actualmente
 
