@@ -1,6 +1,7 @@
 ## Hola 👋
 ## Ingeniero en sistemas computacionales con alta pasión por el procesamiento y análisis de datos.
-[![.NET](https://img.shields.io/badge/.NET-0077B5?style=plastic&logo=.net&logoColor=white)](https://dotnet.microsoft.com/es-es/)
+[![.NET](https://img.shields.io/badge/.NET-0077B5?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/es-es/)
+[![.Python](https://img.shields.io/badge/.Python-0077B5?style=for-the-badge&logo=python&logoColor=green)]([https://dotnet.microsoft.com/es-es/](https://www.python.org/))
 
 
 ### 🛠️ Tecnologías
