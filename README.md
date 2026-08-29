@@ -1,6 +1,7 @@
 ## Hola 👋
 ## Ingeniero en sistemas computacionales con alta pasión por el procesamiento y análisis de datos.
-![.NET](https://img.shields.io/badge/.NET?style=for-the-badge&logo=.net&logoColor=white)
+[!.NET](https://img.shields.io/badge/.NET-0077B5?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/es-es/)
+
 
 ### 🛠️ Tecnologías
 - Backend:.NET, FastApi, Node Js
