@@ -1,5 +1,7 @@
 ## Hola 👋
-## Soy ingeniero en sistemas computacionales que se adapta a cualquier entorno de trabajo. Mi pasión se enfoca y va dirigida a todo el tema de Data, desde trabajar con procesamiento de datos con softwares como spark, pandas, SAS para nivel Big Data. También cuento con experiencia y gusto por trabajar con bases de datos relacionales, especialmente con el gestor PostgreSQL y análisis de datos trabajando con tablas dinámicas en Excel, Macros, fórmulas, gráficas, carga de datos desde archivos CSV y procesos ETL. 
+## Soy ingeniero en sistemas computacionales que se adapta a cualquier entorno de trabajo. Mi pasión se enfoca y va dirigida a todo el tema de Data, desde trabajar con procesamiento de datos con softwares como spark, pandas, SAS para nivel Big Data. 
+
+## También cuento con experiencia y gusto por trabajar con bases de datos relacionales, especialmente con el gestor PostgreSQL y análisis de datos trabajando con tablas dinámicas en Excel, Macros, fórmulas, gráficas, carga de datos desde archivos CSV y procesos ETL. 
 
 ### 🛠️ Stack de tecnologías con el que trabajo actualmente
 
@@ -21,6 +23,7 @@
 [![Hadoop](https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=white)](https://hadoop.apache.org/)
 [![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)](https://hive.apache.org/)
 [![Hue](https://img.shields.io/badge/Hue-213B56?style=for-the-badge)](https://gethue.com/)
+[![Apache Parquet](https://img.shields.io/badge/Apache%20Parquet-232F3E?style=for-the-badge&logo=apache&logoColor=white)](https://parquet.apache.org/)
 [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
