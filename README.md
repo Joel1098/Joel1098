@@ -38,5 +38,5 @@ También cuento con experiencia y gusto por trabajar con bases de datos relacion
 
 
 ### Contacto
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/joel-ernesto-dorantes-guerrero-72b7841a2/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joel-ernesto-dorantes-guerrero-72b7841a2/)
 [![Correo](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeldgjo98@gmail.com)
