@@ -1,6 +1,7 @@
 ## Hola 👋
 ## Ingeniero en sistemas computacionales con alta pasión por el procesamiento y análisis de datos.
-https://img.shields.io/badge/:badgeContent
+![.NET](https://img.shields.io/badge/.NET?style=for-the-badge&logo=.net&logoColor=white)
+
 ### 🛠️ Tecnologías
 - Backend:.NET, FastApi, Node Js
 - Frontend: React, TailwindCSS  
@@ -11,5 +12,4 @@ https://img.shields.io/badge/:badgeContent
 
 ### 📫 Contacto
 - 📧 [joeldgjo98@gmail.com](mailto:joeldgjo98@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/joel-ernesto-dorantes-guerrero-72b7841a2)  
-- 💻 [GitHub](https://github.com/Joel1098)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/joel-ernesto-dorantes-guerrero-72b7841a2) 
