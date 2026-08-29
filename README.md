@@ -4,7 +4,7 @@ Soy ingeniero en sistemas computacionales que se adapta a cualquier entorno de t
 
 También cuento con experiencia y gusto por trabajar con bases de datos relacionales y análisis de datos como con tablas dinámicas en Excel, Macros, fórmulas, gráficas, carga de datos desde archivos CSV y procesos ETL. 
 
-### Stack de tecnologías con el que trabajo actualmente
+### Stack de tecnologías
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
