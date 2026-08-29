@@ -20,6 +20,9 @@
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![SAS](https://img.shields.io/badge/SAS-007CC2?style=for-the-badge&logo=sas&logoColor=white)](https://www.sas.com/)
+[![Hadoop](https://img.shields.io/badge/Hadoop-66CC00?style=for-the-badge&logo=apachehadoop&logoColor=white)](https://hadoop.apache.org/)
+[![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)](https://hive.apache.org/)
+[![Hue](https://img.shields.io/badge/Hue-213B56?style=for-the-badge)](https://gethue.com/)
 [![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)](https://spark.apache.org/docs/latest/api/python/)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
@@ -32,17 +35,6 @@
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
 
 
-
-
-
-
-
-- Frontend: React, TailwindCSS  
-- Data: Python, Pandas, PySpark
-- Análisis de datos: SAS
-- Datalake: Hue, Hadoop, Hive
-- Bases de datos: Mysql, PostgreSQL, Mongo DB
-
 ### 📫 Contacto
-- 📧 [joeldgjo98@gmail.com](mailto:joeldgjo98@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/joel-ernesto-dorantes-guerrero-72b7841a2) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/joel-ernesto-dorantes-guerrero-72b7841a2/))
+[![Correo](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeldgjo98@gmail.com)
