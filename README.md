@@ -1,6 +1,6 @@
 ## Hola 👋
 ## Ingeniero en sistemas computacionales con alta pasión por el procesamiento y análisis de datos.
-
+https://img.shields.io/badge/:badgeContent
 ### 🛠️ Tecnologías
 - Backend:.NET, FastApi, Node Js
 - Frontend: React, TailwindCSS  
