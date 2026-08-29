@@ -1,17 +1,15 @@
 ## Hola 👋
 ## Ingeniero en sistemas computacionales con alta pasión por el procesamiento y análisis de datos.
 
-<!--
-**Joel1098/Joel1098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tecnologías
+- Backend:.NET, FastApi, Node Js
+- Frontend: React, TailwindCSS  
+- Data: Python, Pandas, PySpark
+- Análisis de datos: SAS
+- Datalake: Hue, Hadoop, Hive
+- Bases de datos: Mysql, PostgreSQL, Mongo DB
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contacto
+- 📧 [joeldgjo98@gmail.com](mailto:joeldgjo98@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/joel-ernesto-dorantes-guerrero-72b7841a2)  
+- 💻 [GitHub](https://github.com/Joel1098)  
