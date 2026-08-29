@@ -1,9 +1,7 @@
 ## Hola 👋
-## Ingeniero en sistemas computacionales con alta pasión por el procesamiento y análisis de datos.
+## Soy ingeniero en sistemas computacionales que se adapta a cualquier entorno de trabajo. Mi pasión se enfoca y va dirigida a todo el tema de Data, desde trabajar con procesamiento de datos con softwares como spark, pandas, SAS para nivel Big Data. También cuento con experiencia y gusto por trabajar con bases de datos relacionales, especialmente con el gestor PostgreSQL y análisis de datos trabajando con tablas dinámicas en Excel, Macros, fórmulas, gráficas, carga de datos desde archivos CSV y procesos ETL. 
 
-
-
-### 🛠️ Tecnologías
+### 🛠️ Stack de tecnologías con el que trabajo actualmente
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
