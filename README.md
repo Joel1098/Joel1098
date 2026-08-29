@@ -1,9 +1,10 @@
 ## Hola 👋
-## Soy ingeniero en sistemas computacionales que se adapta a cualquier entorno de trabajo. Mi pasión se enfoca a todo el tema de Data, desde trabajar con procesamiento de datos con softwares como spark, pandas, SAS para nivel Big Data. 
+## Acerca de mi 
+Soy ingeniero en sistemas computacionales que se adapta a cualquier entorno de trabajo. Mi pasión se enfoca a todo el tema de Data, desde trabajar con procesamiento de datos con softwares como spark, pandas, SAS para nivel Big Data. 
 
-## También cuento con experiencia y gusto por trabajar con bases de datos relacionales y análisis de datos como con tablas dinámicas en Excel, Macros, fórmulas, gráficas, carga de datos desde archivos CSV y procesos ETL. 
+También cuento con experiencia y gusto por trabajar con bases de datos relacionales y análisis de datos como con tablas dinámicas en Excel, Macros, fórmulas, gráficas, carga de datos desde archivos CSV y procesos ETL. 
 
-### 🛠️ Stack de tecnologías con el que trabajo actualmente
+### Stack de tecnologías con el que trabajo actualmente
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
@@ -36,6 +37,6 @@
 [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/microsoft-365/excel)
 
 
-### 📫 Contacto
+### Contacto
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil/](https://www.linkedin.com/in/joel-ernesto-dorantes-guerrero-72b7841a2/))
 [![Correo](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeldgjo98@gmail.com)
